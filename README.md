@@ -1,5 +1,7 @@
 # Test environment for patroni for 1C
 
+https://www.youtube.com/watch?v=TLT2RdHhiAA
+
 * Vagrant file (vagrant up, provision ansible, only linux)
 
 * Ansible script
